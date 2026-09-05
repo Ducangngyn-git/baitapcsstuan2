@@ -1,0 +1,44 @@
+/* Bước 3: Định dạng thẻ body (Phông chữ và kích thước phông) */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+/* Bước 4: Định dạng thẻ header (Màu nền) */
+header {
+  background-color: #e70e0e;
+}
+
+/* Bước 5: Định dạng thẻ nav (Màu nền) */
+nav {
+  background-color: #4b0707;
+}
+
+/* Bước 6: Định dạng thẻ main (Màu nền và kích thước phông) */
+main {
+  background-color: #cf7070;
+  font-size: 18px;
+}
+
+/* Bước 7: Định dạng thẻ footer (Màu nền) */
+footer {
+  background-color: #cdb5b5;
+}
+
+/* Bước 8: Định dạng thẻ li (Kiểu hiển thị và chiều rộng) */
+li {
+  display: inline-block; /* Bắt buộc có display */
+  width: 120px; /* Bắt buộc có width */
+}
+
+/* Bước 9: Định dạng thẻ h1 (Căn chỉnh chữ, phông chữ và màu sắc) */
+h1 {
+  text-align: center;
+  font-family: "Segoe UI", sans-serif;
+  color: #1a5276;
+}
+
+/* Bước 10: Định dạng thẻ p (Chiều cao dòng) */
+p {
+  line-height: 1.6;
+}
